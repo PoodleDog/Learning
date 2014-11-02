@@ -1,0 +1,52 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Calibration.ico</file>
+    <file>ExperimentData.ico</file>
+    <file>Setup.ico</file>
+    <file>Time.ico</file>
+    <file>tux.ico</file>
+    <file>Prediction.ico</file>
+    <file>Decrease.png</file>
+    <file>Increase.png</file>
+    <file>SmartTool.ico</file>
+    <file>Statistics.ico</file>
+    <file>SymbolDemo.ico</file>
+    <file>XYGraph (2).ico</file>
+    <file>XYGraphAutoScale.ico</file>
+    <file>XYGraphProperties.ico</file>
+    <file>XYGraphSynchronizeIndependentAxes.ico</file>
+    <file>ZoomSelection.ico</file>
+    <file>ItemPicker.ico</file>
+    <file>Text.ico</file>
+    <file>TableResult.ico</file>
+    <file>BarGraph.ico</file>
+    <file>Calculator.ico</file>
+    <file>ExperimentSetup.ico</file>
+    <file>Expression.ico</file>
+    <file>FFT.ico</file>
+    <file>Histogram.ico</file>
+    <file>MeterAnalog.ico</file>
+    <file>MeterBar.ico</file>
+    <file>MeterDigital.ico</file>
+    <file>Movie.ico</file>
+    <file>NextPage.ico</file>
+    <file>PeriodicSampling.ico</file>
+    <file>Picture.ico</file>
+    <file>PreviousPage.ico</file>
+    <file>RunClock.ico</file>
+    <file>Scope.ico</file>
+    <file>SignalGenerator.ico</file>
+    <file>Snapshot.ico</file>
+    <file>SoundAnalyzer.ico</file>
+    <file>SoundCreator.ico</file>
+    <file>Summary.ico</file>
+    <file>Table.ico</file>
+    <file>TextItemList.ico</file>
+    <file>TitleText.ico</file>
+    <file>UserData.ico</file>
+    <file>WBAddPage.ico</file>
+    <file>WBDeletePage.ico</file>
+    <file>Workbook.ico</file>
+    <file>XYGraph.ico</file>
+  </qresource>
+</RCC>
